@@ -33,6 +33,7 @@ public class Main {
                     if (!visit[neighbour]) {
                         dfs(neighbour, graph, visit, countNode,  countEdges);
                     }
+                    System.out.println("second commit");
             }
         }
 
