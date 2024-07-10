@@ -35,6 +35,7 @@ public class Main {
                     }
                     System.out.println("second commit");
                     System.out.println("Third commit");
+                    System.out.println("4");
             }
         }
 
